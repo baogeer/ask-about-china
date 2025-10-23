@@ -7,21 +7,25 @@ export const SITE_DESCRIPTION = "Questions about China? Go to Ask China. Discove
 // 这里是一级路由
 export const SITE_BASE = ''
 export const SocialLinks = [
-    {
-        name: 'LinkedIn',
-        url: 'https://www.linkedin.com/in/yashjawale/',
-    },
+    // {
+    //     name: 'LinkedIn',
+    //     url: 'https://www.linkedin.com/in/yashjawale/',
+    // },
     {
         name: 'X / Twitter',
-        url: 'https://twitter.com/imyashjawale',
+        url: 'https://x.com/wngxiobo1',
     },
-    {
-        name: 'Instagram',
-        url: 'https://instagram.com/imyashjawale',
-    },
+    // {
+    //     name: 'Instagram',
+    //     url: 'https://instagram.com/imyashjawale',
+    // },
 ]
 
 export const WebsiteLinks = [
+    {
+        name: 'Home',
+        url: '',
+    },
     {
         name: 'Ask China',
         url: 'ask-china',
