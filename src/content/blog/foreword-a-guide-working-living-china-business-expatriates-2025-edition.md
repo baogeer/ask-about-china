@@ -1,7 +1,7 @@
 ---
 title: '🌏 Foreword to A Guide to Working and Living in China for Business Expatriates (2025 Edition)'
 description: |
-  The Ministry of Commerce of the People’s Republic of China has issued the updated *Guide to Working and Living in China for Business Expatriates (2025 Edition) to further facilitate the work and life of foreign business professionals. 
+  The Ministry of Commerce of the People’s Republic of China has issued the updated Guide to Working and Living in China for Business Expatriates (2025 Edition) to further facilitate the work and life of foreign business professionals. 
 pubDate: '2025-10-23 15:09'
 ---
 
