@@ -9,9 +9,9 @@ import {rehypeAccessibleEmojis} from 'rehype-accessible-emojis'
 import {remarkReadingTime} from './src/plugins/remark-reading-time.mjs'
 import {remarkModifiedTime} from './src/plugins/remark-modified-time.mjs'
 
-// https://astro.build/config
+
 export default defineConfig({
-    site: 'https://china-local-guide.vercel.app/',
+    site: 'https://www.ask-china.com/',
     base: '',
     integrations: [
         mdx(),

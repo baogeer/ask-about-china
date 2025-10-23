@@ -19,3 +19,10 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# 测试数据
+
+a-brief-treatise-on-the-color-of-tuesdays.md
+my-wifi-password-is-a-haiku.md
+the-existential-agnst-of-a-semicolon.md
+the-secret-social-hierarchy-of-zindex.md
