@@ -10,54 +10,60 @@ pubDate: '2025-10-24 15:09'
 
 ## I. Residence Registration Immediately after Entry into the Chinese Mainland
 
-### (I) For Foreigners Staying in Hotels
+### (I) For foreigners staying in a  hotel, residence registration can be  handled by the hotel.
 
-Foreigners staying in hotels can complete residence registration directly at the hotel by presenting a valid passport or
-other international travel documents at the reception desk.
+Foreigners can register residence by presenting a valid passport or other international travel documents to the hotel
+reception.
 
-### (II) For Foreigners Staying Elsewhere
+### (II) Foreigners who stay elsewhere  need to register residence at the local  police station within 24 hours after  check-in.
 
-Foreigners who stay in private residences or other non-hotel accommodations must register their residence at the local
-police station **within 24 hours after check-in**.  
-They, or their hosts, should bring a valid passport (or other travel documents) along with **proof of address** when
-registering.
+Foreigners or the persons who accommodate them can register residence at the local police station by presenting a valid
+passport or other international travel documents, along with the proof of address.
 
 ---
 
 ## II. Matters Requiring Special Attention
 
-### (I) Validity Period of Visa
+### (I) Validity period of visa
 
-Foreigners entering China with a visa who plan to work and reside in the country must apply for a **residence permit
-within 30 days** of entry.  
-If an extension of stay is needed, applications must be submitted to the local exit and entry administration of the
-public security organ **at least 7 days before visa expiry**, together with supporting materials.
+Foreigners who enter the Chinese mainland with a visa and plan to work and live in the Chinese mainland need to apply
+for a residence permit within 30 days from the date of entry according to relevant requirements. If an extension of the
+duration of stay specified in the visa is required, the application should be submitted to the exit and entry
+administration authority of public security organs of local people's governments at or above the county level in the
+place of residence, at least 7 days before the expiration of the duration of stay specified in the visa, with the
+relevant materials relating to the purpose of the application.
 
-### (II) Validity Period of Residence Permit
+### (II) Validity period of residence permit
 
-Those needing to stay beyond the expiration of their residence permit must apply for an **extension 30 days before
-expiration**.  
-If there are changes in personal information (such as a new passport), foreigners must update their information at the
-local exit and entry administration **within 10 days** of the change.
+Foreigners who need to stay in the Chinese mainland after the expiration of residence permits shall apply for an
+extension 30 days before the expiration. Foreigners who hold a valid residence permit and have changed passports or had
+other items on the residence permit changed shall apply to the exit and entry administration authority of public
+security organs for information update within 10 days from the date the changes occur.
 
-### (III) Validity Period of Work Permit
+### (III) Validity period of work permit
 
-1. Foreigners working in China must obtain a **foreigner’s work permit**.
-    - For work **not exceeding 30 days**, they must stay within the validity of their Z visa and work permit.
-    - For work **exceeding 30 days**, they should apply for a **work-type residence permit** within 90 days.
-    - Foreign art performance groups or individuals can complete residence procedures at the local public security organ
-      where the organizer is registered or where the first performance takes place.  
-      Once a residence permit is obtained, no repeated application is required for performances in other locations.
-2. Employers must apply for a **work permit extension** 30 days before expiration.
-3. If there is a change in personal information (e.g., name, passport number, or position), an application for update
-   must be filed **within 10 working days**.
+1. Foreigners working within the Chinese mainland should obtain a foreigner's work permit. Foreigners with a working
+   period not exceeding 30 days must adhere to the timeframe specified in their foreigner's work permit and stay in the
+   country for the duration outlined on their Z visa. Those with a working period exceeding 30 days must also follow the
+   timeframe specified in their foreigner's work permit and apply for a work-type residence permit, valid for 90 days.
+   This application should be made with the local public security organ by presenting their foreigner's work permit, Z
+   visa, and other supporting documents. Foreign art performance groups and individuals can complete residence
+   procedures with the local public security organ at the location where the performance organizer is registered or
+   where the first performance takes place, by presenting their foreigner's work permit, Z visa, and other supporting
+   documents. Foreign performers who have obtained residence permits will not need to repeat these residence procedures
+   when performing at other locations in the Chinese mainland.
+2. The employer shall submit an application for an extension to the local administration department of foreigners
+   working in the Chinese mainland 30 days before the expiration of the work permit.
+3. In case of any change in personal information (name, passport number, and position), an application for changes shall
+   be submitted to the administration department of foreigners working in the Chinese mainland in the place where the
+   employer is located within 10 working days from the date the changes occur.
 
-### (IV) Other Reminders
+### (IV) Others
 
-1. Foreigners must abide by Chinese laws and regulations when posting on social media.
-2. Foreigners must comply with local rules regarding pet ownership.
-3. It is **strictly prohibited** to photograph or record **military installations**, including military buildings,
-   sites, or facilities.
+1. Foreigners must abide by the laws and regulations of China when writing comments on social media in China.
+2. Foreigners must comply with relevant regulations when keeping dogs, cats, and other pets.
+3. Foreigners must not photograph military installations, including buildings, sites, and facilities directly used by
+   China for military purposes.
 
 ---
 
@@ -73,8 +79,8 @@ local exit and entry administration **within 10 days** of the change.
 
 ## (IV). Related Links
 
-1. [Ministry of Commerce of the People’s Republic of China](https://wzs.mofcom.gov.cn/zcfb/art/2025/art_c82dde78aadb405e8e55e4a73dcf468c.html)
-2. [Guide to Working and Living in China for Business Expatriates (2025 Edition)](https://wzs.mofcom.gov.cn/cms_files/filemanager/195082220/attach/20255/3f2d1fde854b47f0a37a15188a3a2f73.pdf)
+- [Ministry of Commerce of the People’s Republic of China](https://wzs.mofcom.gov.cn/zcfb/art/2025/art_c82dde78aadb405e8e55e4a73dcf468c.html)
+- [Guide to Working and Living in China for Business Expatriates (2025 Edition)](https://wzs.mofcom.gov.cn/cms_files/filemanager/195082220/attach/20255/3f2d1fde854b47f0a37a15188a3a2f73.pdf)
 
 ---
 
