@@ -16,11 +16,11 @@ const posts = (await getCollection('blog'))
     >
         <div>
             <p class="block text-3xl opacity-70 mt-9 mb-4">Welcome to</p>
-            <h1 class="text-8xl font-bold leading-none">Ask China</h1>
+            <h1 class="text-8xl font-bold leading-none">China Expat Guide</h1>
         </div>
         <p class="text-2xl max-w-2xl font-light leading-normal">
-            Questions about China? Go to Ask China. Discover a real China with Ask China, a global Q&A community
-            connecting you with the experts on China.
+            Your everyday guide to life in China.Discover how to live, eat, travel, and experience China — with insights
+            made for expats, by expats.
         </p>
         <div class="flex flex-wrap gap-8">
             {
@@ -43,25 +43,9 @@ const posts = (await getCollection('blog'))
             {posts.map((post) =>
                     <BlogCard post={post}/>)}
         </div>
-        <a class="btn-secondary" href="/ask-china"
+        <a class="btn-secondary" href="/guide"
         >Read All
             <Icon size={20} name="mdi:arrow-right"/>
         </a>
-    </section>
-
-    <!-- Recent Posts Section -->
-    <section class="app-container py-42 grid lg:grid-cols-2 gap-28 lg:gap-10">
-        <div class="space-y-6">
-            <h2 class="section-title">About Me</h2>
-            <p class="text-lg max-w-xl pb-4">
-                A brief introduction about yourself. You can include your profession,
-                hobbies, interests, or anything you'd like visitors to know about you.
-            </p>
-            <a class="btn-secondary" href={`${SITE_BASE}/about`}
-            >Go to About
-                <Icon size={20} name="mdi:arrow-right"/>
-            </a>
-        </div>
-
     </section>
 </BaseLayout>

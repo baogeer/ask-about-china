@@ -1,6 +1,6 @@
 {
-	"name": "Ask China",
-	"short_name": "Ask-China",
+	"name": "China Expat Guide",
+	"short_name": "china-expat-guide",
 	"icons": [
 		{
 			"src": "/web-app-manifest-192x192.png",
