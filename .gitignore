@@ -22,7 +22,6 @@ pnpm-debug.log*
 
 # 测试数据
 
-src/content/blog/a-brief-treatise-on-the-color-of-tuesdays.md
-src/content/blog/my-wifi-password-is-a-haiku.md
-src/content/blog/the-existential-agnst-of-a-semicolon.md
-src/content/blog/the-secret-social-hierarchy-of-zindex.md
+
+
+src/content/blog/demo.md
