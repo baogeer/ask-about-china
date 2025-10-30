@@ -13,7 +13,7 @@ As China continues to attract global tourists, understanding its unique legal sy
 and trouble-free trip. This guide provides a clear overview of laws and regulations for foreign tourists planning a
 visit in 2025, helping you navigate your travels with confidence and avoid unnecessary complications.
 
-### **Framework of the Legal System**
+## **Framework of the Legal System**
 
 China’s legal system is based on civil law, with the Constitution of the People's Republic of China as its supreme
 authority. National legislative power is held by the National People's Congress and its Standing Committee, while the

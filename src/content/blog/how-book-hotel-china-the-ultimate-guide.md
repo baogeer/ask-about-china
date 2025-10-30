@@ -16,7 +16,7 @@ chosen hotel can legally host foreigners and what to do when you arrive.
 
 You have several options for booking accommodation in China, each with its own benefits and drawbacks.
 
-### Global Booking Sites (OTAs)
+## Global Booking Sites (OTAs)
 
 Platforms like Booking.com and Agoda are popular choices for international travelers. They offer familiar interfaces and
 English-language customer support.
@@ -29,7 +29,7 @@ English-language customer support.
 **Key Tip:** Even on these sites, you must confirm that the hotel accepts foreign guests. Look for phrases like "This
 property is able to accept foreign guests" in the hotel description or policies section.
 
-### China-Focused Platforms
+## China-Focused Platforms
 
 Trip.com (formerly Ctrip) and Fliggy (owned by Alibaba) are the dominant players in China's travel market. Trip.com is
 particularly user-friendly for foreigners, with a dedicated English site and app.
@@ -39,7 +39,7 @@ particularly user-friendly for foreigners, with a dedicated English site and app
 - **Cons:** Fliggy is primarily in Chinese and deeply integrated with Alipay, making it less accessible if you don't use
   the app. You still need to verify if the hotel accepts foreigners.
 
-### Direct Hotel Websites & WeChat Accounts
+## Direct Hotel Websites & WeChat Accounts
 
 Major international hotel chains (Marriott, Hilton, IHG) and some domestic chains have their own websites and WeChat
 Official Accounts or Mini Programs for direct booking.
@@ -68,7 +68,7 @@ Here’s how to check:
 
 Once you've found a suitable hotel, you'll need to provide some information and handle payment.
 
-### Common Booking Requirements
+## Common Booking Requirements
 
 - **Passport Details:** You will need to provide your full name as it appears on your passport and sometimes your
   passport number.
@@ -76,7 +76,7 @@ Once you've found a suitable hotel, you'll need to provide some information and 
 - **Deposit:** Many hotels require a security deposit at check-in, usually paid in cash (CNY) or charged to a credit
   card. It's refunded upon checkout after they inspect the room.
 
-### Navigating Payments
+## Navigating Payments
 
 - **International Credit Cards (Visa, Mastercard):** Widely accepted by international hotel chains and on global OTAs
   like Booking.com. They are less commonly accepted at smaller, independent hotels.
@@ -91,23 +91,23 @@ Once you've found a suitable hotel, you'll need to provide some information and 
 
 A little preparation goes a long way. These tips will help you avoid common issues.
 
-### Save the Hotel Address in Chinese
+## Save the Hotel Address in Chinese
 
 GPS and ride-hailing apps work best with Chinese addresses. After booking, copy the hotel’s name and address in Chinese
 characters. Save it in your phone’s notes or as a screenshot. This is incredibly helpful for showing to taxi drivers or
 navigating.
 
-### Contacting the Property
+## Contacting the Property
 
 Use the in-app chat features on Booking.com, Agoda, or Trip.com for easy communication. For more direct contact, many
 hotels list their WeChat ID. Adding them on WeChat can be useful for quick questions.
 
-### Late Check-In Procedures
+## Late Check-In Procedures
 
 If you know you'll be arriving late (after 6 PM), inform the hotel. You can add a note during booking or send them a
 message. This ensures they hold your room and don't mark you as a no-show.
 
-### Registering with the Public Security Bureau (PSB)
+## Registering with the Public Security Bureau (PSB)
 
 By law, all foreigners must register their place of residence with the local Public Security Bureau (PSB) within 24
 hours of arrival. When you stay at a licensed hotel, they handle this for you during check-in. They will scan your

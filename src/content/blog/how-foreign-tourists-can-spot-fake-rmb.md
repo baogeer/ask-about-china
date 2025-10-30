@@ -1,5 +1,5 @@
 ---
-title: 'How Foreign Tourists Can Spot Fake RMB: Official Features and Practical On-the-Go Tips'
+title: 'How Foreign Tourists Can Spot Fake RMB'
 description: |
   Six-step tips for foreign tourists to identify counterfeit RMB and avoid taxi and night market scams.
 pubDate: '2025-10-30 09:47'
@@ -14,7 +14,7 @@ While mobile payments are increasingly common, cash remains essential in certain
 risk of receiving counterfeit currency, financial experts and tourism operators have released a series of practical
 tips, centered on a simple "six-step quick check" to ensure a worry-free journey.
 
-#### **Background**
+## **Background**
 
 The currency currently in circulation in China is the fifth series of the Renminbi (RMB). Among the various
 denominations, larger bills like the ¥50 and ¥100 notes are the most frequent targets for counterfeiters. For foreign
@@ -22,7 +22,7 @@ tourists unfamiliar with the currency, high-traffic transaction environments suc
 markets can present a risk of encountering fake bills. Understanding the security features of the RMB beforehand is a
 crucial preventative measure.
 
-#### **The Six-Step Quick Check**
+## **The Six-Step Quick Check**
 
 You can quickly verify the authenticity of an RMB note by following these six simple steps:
 
@@ -42,7 +42,7 @@ You can quickly verify the authenticity of an RMB note by following these six si
 6. **Verify the UV Features:** Under an ultraviolet (UV) light, authentic notes will reveal special fluorescent patterns
    and fibers. Counterfeit bills either lack these features or have an abnormal fluorescent glow.
 
-#### **High-Risk Travel Scenarios and How to Respond**
+## **High-Risk Travel Scenarios and How to Respond**
 
 Being aware of common scams can help you stay vigilant:
 
@@ -55,7 +55,7 @@ Being aware of common scams can help you stay vigilant:
   highly likely to give you fake bills or shortchange you. **Response:** Only exchange currency at official banks or
   licensed money exchange offices.
 
-#### **Payment and Cash Tips for Tourists**
+## **Payment and Cash Tips for Tourists**
 
 - **Prioritize Electronic Payments:** Whenever possible, use international versions of WeChat Pay or Alipay. This is the
   most effective way to minimize handling cash.
@@ -66,7 +66,7 @@ Being aware of common scams can help you stay vigilant:
 - **Inspect Cash Immediately:** Whether it's change from a merchant or cash from an exchange, inspect the notes as soon
   as you receive them. You have the right to refuse any damaged or suspicious-looking bills.
 
-#### **What to Do If You Receive a Counterfeit**
+## **What to Do If You Receive a Counterfeit**
 
 If you suspect you have a counterfeit note, it is important to remember the following:
 
@@ -78,7 +78,7 @@ If you suspect you have a counterfeit note, it is important to remember the foll
 - **Alert Other Travelers:** You can share your experience on travel forums or social media to help other visitors avoid
   similar situations.
 
-#### **Conclusion**
+## **Conclusion**
 
 Handling cash safely in China doesn't have to be complicated. By combining the convenience of mobile payments with a
 small supply of vetted, low-denomination banknotes and using the simple "six-step check," you can significantly reduce

@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 export async function GET({ site }) {
     const blog = await getCollection('blog');
     const urls = blog.map((post) => {
-        const url = new URL(`/guide/${post.id.replace('.md', '')}/`, site);
+        const url = new URL(`/${post.id.replace('.md', '')}/`, site);
         const pubDate = post.data.pubDate;
         return `
   <url>
