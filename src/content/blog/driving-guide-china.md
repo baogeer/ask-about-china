@@ -1,5 +1,5 @@
 ---
-title: 'Navigating the Dragon: A Guide to Driving in China'
+title: 'A Guide to Driving in China'
 description: |
   Learn the essentials of driving in China — rules, roads, and licensing for a safe journey.
 pubDate: '2025-10-29 18:09'
