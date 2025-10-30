@@ -10,7 +10,8 @@ pubDate: '2025-10-30 15:55'
 Planning a trip to China requires understanding the visa process. This guide covers everything you need to know to apply
 successfully, including required documents, visa types, fees, and practical tips to avoid delays.
 
-For a general overview of traveling in China, check out our [**What Legal Rules Should Foreign Tourists Know**](/legal-guide-to-traveling-in-china).
+For a general overview of traveling in China, check out our [**What Legal Rules Should Foreign Tourists Know
+**](/legal-guide-to-traveling-in-china).
 
 ---
 
@@ -82,7 +83,8 @@ Once approved:
 - Check the **visa validity, duration, and number of entries** carefully.
 - Ensure your **passport is intact** and all visa details are correct.
 
-> Important: Overstaying your visa in China can result in fines or deportation. Read our [Legal Rules for Tourists](/legal-guide-to-traveling-in-china) for guidance.
+> Important: Overstaying your visa in China can result in fines or deportation. Read
+> our [Legal Rules for Tourists](/legal-guide-to-traveling-in-china) for guidance.
 
 ---
 
