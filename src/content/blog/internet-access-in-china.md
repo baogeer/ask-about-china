@@ -13,10 +13,9 @@ during their time in mainland China.
 
 > 💡 Related reading:
 >
+> [What Legal Rules Should Foreign Tourists Know Before Traveling to China?](/legal-guide-to-traveling-in-china)
 >
-> [What Legal Rules Should Foreign Tourists Know Before Traveling to China?](/what-legal-rules-should-foreign-tourists-know-before-traveling-china)
->
-> [Your Essential Guide to Applying for a Chinese Visa](/)
+> [Your Essential Guide to Applying for a Chinese Visa](/apply-for-chinese-visa)
 
 ---
 
@@ -33,7 +32,7 @@ these methods for consistent internet access.
 - **Public & Hotel Wi-Fi:** Wi-Fi is widely available in hotels, cafes, airports, and shopping malls. However, many
   networks require a Chinese mobile number for verification.
 
-> See also: [China Hotel Booking Guide](/) for finding accommodations with reliable Wi-Fi.
+> See also: [China Hotel Booking Guide](/china-hotel-booking-guide) for finding accommodations with reliable Wi-Fi.
 
 ---
 
@@ -48,8 +47,7 @@ Blocked services include:
 - **Social Media:** Facebook, Instagram, X (formerly Twitter), WhatsApp, Telegram
 - **News & Media:** The New York Times, BBC, YouTube
 
-> 🔗 For a deeper look at online restrictions,
-> visit [Wikipedia: Internet censorship in China](https://en.wikipedia.org/wiki/Internet_censorship_in_China)
+> 🔗 For a deeper look at online restrictions, visit [Wikipedia: Internet censorship in China](https://en.wikipedia.org/wiki/Internet_censorship_in_China)
 
 It is important for visitors to respect local laws. Accessing blocked content is a legally sensitive area. This guide
 does not provide legal advice, and you are responsible for your own actions.
@@ -65,7 +63,7 @@ number.
 
 1. **Choose a Location:** You can buy SIM cards at major international airports (like Beijing Capital or Shanghai
    Pudong) or at official retail stores.  
-   → See our [Beijing Airport Arrival Guide](/).
+   → See our [Beijing Airport Arrival Guide](/beijing-airport-arrival-guide).
 2. **Select a Carrier:**
     - [China Mobile](https://www.chinamobileltd.com/en/) – best rural coverage
     - [China Unicom](https://www.chinaunicomglobal.com/) – strong in cities
@@ -84,7 +82,7 @@ number.
 - **Wi-Fi Only:** Usable for short trips, but some apps require phone verification.
 
 > Note: Without a Chinese number, using WeChat Pay or Alipay may be limited. See our
-> guide: [How to Use Mobile Payments in China](/)
+> guide: [How to Use Mobile Payments in China](/how-to-use-mobile-payments-in-china)
 
 ---
 
@@ -98,7 +96,7 @@ The digital landscape is dominated by “super apps.” Download these before yo
 - **Maps:** [Amap (高德地图)](https://www.amap.com/) | [Baidu Maps](https://map.baidu.com/)
 - **Ride-Hailing:** [Didi Chuxing](https://www.didiglobal.com/)
 
-> Related: [Most Useful Apps for Living in China](/)
+> Related: [Most Useful Apps for Living in China](/most-useful-apps-for-living-in-china)
 
 ---
 
@@ -118,7 +116,7 @@ Many apps verify identity via SMS. Having a local number simplifies access.
 - **Set Up Alternative 2FA:** Use apps like [Authy](https://authy.com/) for offline codes.
 - **Use Public Wi-Fi Safely:** Avoid sensitive logins; consider trusted VPNs (where legal).
 
-> Bonus: [10 Essential Apps Every Traveler Needs in China](/)
+> Bonus: [10 Essential Apps Every Traveler Needs in China](/essential-travel-apps-in-china)
 
 ---
 
@@ -130,6 +128,6 @@ Many apps verify identity via SMS. Having a local number simplifies access.
 - Inform your bank of travel dates.
 - Carry a passport copy for SIM registration.
 
-> Continue
->
-reading: [A Legal Guide to Traveling in China](/) | [Most Common Scams in Beijing](/)
+> Continue reading:  
+> [A Legal Guide to Traveling in China](/legal-guide-to-traveling-in-china) |  
+> [Most Common Scams in Beijing](/most-common-scams-in-beijing)

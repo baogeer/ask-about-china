@@ -12,7 +12,7 @@ and trouble-free trip. This guide provides a clear overview of laws and regulati
 visit in 2025, helping you navigate your travels with confidence and avoid unnecessary complications.
 
 If you’re visiting China for the first time, you may also want to read our [**Beginner’s Guide to Traveling in China
-**](/) and [**China Visa Application Guide**](/).
+**](/beginner-travel-guide-china) and [**China Visa Application Guide**](/apply-for-chinese-visa).
 
 ---
 
@@ -35,8 +35,8 @@ Common visa types include **Tourist (L)**, **Business (M)**, and **Student (X)**
 that matches your purpose of travel and adhere strictly to the duration of stay specified on it. Overstaying can result
 in fines or deportation.
 
-👉 See our updated [**Chinese Visa Categories Explained**](/) for more details.  
-Official information is available from the [National Immigration Administration (NIA)](https://en.nia.gov.cn).
+👉 See our updated [**Chinese Visa Categories Explained**](/apply-for-chinese-visa) for more details.  
+Official information is available from the [National Immigration Administration (NIA)](https://www.nia.gov.cn).
 
 ---
 
@@ -49,7 +49,7 @@ brought in duty-free, but there are strict limits on items like **tobacco and al
 - Exporting cultural relics or protected heritage items without authorization is illegal.
 
 For the latest rules, visit the [General Administration of Customs of China](http://english.customs.gov.cn).  
-You can also check our guide on [**What You Can and Cannot Bring into China**](/).
+You can also check our guide on [**What You Can and Cannot Bring into China**](/china-customs-guide).
 
 ---
 
@@ -60,7 +60,7 @@ Minor infractions like spitting or jaywalking may result in fines.
 
 Respect local customs, avoid touching religious artifacts unnecessarily, and refrain from engaging in **political
 discussions** in public.  
-Learn more in our [**Cultural Etiquette Guide for China**](/).
+Learn more in our [**Cultural Etiquette Guide for China**](/china-etiquette-guide).
 
 ---
 
@@ -76,7 +76,7 @@ on [China’s Narcotics Control Law (English version)](http://www.gov.cn/english
 China's **internet environment** is regulated under what’s commonly known as the “**Great Firewall**.” Many foreign
 websites and apps (e.g., Google, Facebook, Instagram) are not directly accessible.  
 Although some tourists use VPNs, the legality of VPN use varies by province and is **not officially approved**. For a
-safe experience, read our [**Guide to Internet Access in China**](/).
+safe experience, read our [**Guide to Internet Access in China**](/china-internet-access-guide).
 
 ---
 
@@ -86,7 +86,8 @@ Typical legal problems include **visa overstays**, **rental disputes**, and **tr
 When signing contracts, always verify the clauses carefully.
 
 Foreigners have the **right to legal assistance and a fair trial**. In case of disputes, you may contact your **embassy
-or consulate** in China — see our directory of [**Foreign Embassies and Consulates in China**](/).
+or consulate** in China — see our directory of [**Foreign Embassies and Consulates in China
+**](/foreign-embassies-in-china).
 
 ---
 
@@ -94,7 +95,7 @@ or consulate** in China — see our directory of [**Foreign Embassies and Consul
 
 When traveling with children, ensure each child has their **own valid passport and visa**.  
 If carrying **prescription medicine**, bring a doctor’s note or prescription in English for verification.  
-We also recommend purchasing [**Travel Health Insurance for China**](/), covering
+We also recommend purchasing [**Travel Health Insurance for China**](/travel-health-insurance-china), covering
 medical emergencies and hospital visits.
 
 For up-to-date health information, consult the [World Health Organization – China Office](https://www.who.int/china).
@@ -109,13 +110,12 @@ For up-to-date health information, consult the [World Health Organization – Ch
 - ✔️ Respect local customs and maintain proper public behavior.
 - ✔️ Avoid drunk driving and **all forms of illegal drugs**.
 - ✔️ Get **comprehensive travel and medical insurance** before departure.
-- ✔️ Learn basic [**Chinese Travel Phrases**](/) to ease communication.
+- ✔️ Learn basic [**Chinese Travel Phrases**](/chinese-travel-phrases) to ease communication.
 
 ---
 
 **Read Next:**
 
-- [How to Apply for a Chinese Visa in 2025](/)
-- [Top 10 Safety Tips for Traveling in China](/)
-- [What to Pack for Your China Trip: 2025 Edition](/)
-
+- [How to Apply for a Chinese Visa in 2025](/apply-for-chinese-visa)
+- [Top 10 Safety Tips for Traveling in China](/china-travel-safety-tips)
+- [What to Pack for Your China Trip: 2025 Edition](/china-packing-guide)
