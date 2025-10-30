@@ -35,7 +35,7 @@ Common visa types include **Tourist (L)**, **Business (M)**, and **Student (X)**
 that matches your purpose of travel and adhere strictly to the duration of stay specified on it. Overstaying can result
 in fines or deportation.
 
-👉 See our updated [**Chinese Visa Categories Explained**](/types-of-chinese-visas) for more details.  
+👉 See our updated [**Chinese Visa Categories Explained**](/) for more details.  
 Official information is available from the [National Immigration Administration (NIA)](https://en.nia.gov.cn).
 
 ---
@@ -49,7 +49,7 @@ brought in duty-free, but there are strict limits on items like **tobacco and al
 - Exporting cultural relics or protected heritage items without authorization is illegal.
 
 For the latest rules, visit the [General Administration of Customs of China](http://english.customs.gov.cn).  
-You can also check our guide on [**What You Can and Cannot Bring into China**](/china-entry-restrictions).
+You can also check our guide on [**What You Can and Cannot Bring into China**](/).
 
 ---
 
