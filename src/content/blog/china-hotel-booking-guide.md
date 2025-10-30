@@ -1,5 +1,5 @@
 ---
-title: 'How to Book a Hotel in China: The Ultimate Guide'
+title: 'How to Book a Hotel in China?'
 description: |
   Learn how to book hotels in China, from finding properties that accept foreigners to navigating payments and check-in. Your complete practical guide.
 pubDate: '2025-10-29 10:41'
