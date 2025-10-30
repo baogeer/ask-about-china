@@ -1,5 +1,5 @@
 ---
-title: 'What Legal Rules Should Foreign Tourists Know Before Traveling to China?'
+title: 'What Every Tourist Must Know Before Visiting China'
 description: |
   China travel guide covering visas, customs, public behavior, alcohol, drugs, and internet, ensuring safe, smooth trips for foreign tourists, including child and health tips.
 pubDate: '2025-10-29 14:49'
