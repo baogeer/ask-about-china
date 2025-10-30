@@ -10,7 +10,7 @@ export async function GET({ site }) {
     <loc>${url.href}</loc>
     <news:news>
       <news:publication>
-        <news:name>China Expat Guide</news:name>
+        <news:name>China Expat & Travel Guide</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>${pubDate}</news:publication_date>
