@@ -12,13 +12,27 @@ down everything you need to know, from choosing the right booking site to naviga
 We’ll cover where to book, how to pay, and essential tips for a smooth experience. You’ll learn how to ensure your
 chosen hotel can legally host foreigners and what to do when you arrive.
 
+💡 **Related reading:**
+
+- [Your Essential Guide to Applying for a Chinese Visa](/apply-for-chinese-visa)
+- [A Traveler’s Guide to Internet Access in China](/internet-access-in-china)
+- [A Legal Guide to Traveling in China](/legal-guide-to-traveling-in-china)
+- [Most Common Scams in Beijing](/most-common-scams-in-beijing)
+
+---
+
 ## Where to Book Your Hotel in China
 
-You have several options for booking accommodation in China, each with its own benefits and drawbacks.
+You have several options for booking accommodation in China, each with its own benefits and drawbacks.  
+If you're still planning your trip, check out our [China Travel Preparation Guide](/travel-preparation-guide) for
+essential pre-departure steps.
+
+---
 
 ## Global Booking Sites (OTAs)
 
-Platforms like Booking.com and Agoda are popular choices for international travelers. They offer familiar interfaces and
+Platforms like [Booking.com](https://www.booking.com) and [Agoda](https://www.agoda.com) are popular choices for
+international travelers. They offer familiar interfaces and
 English-language customer support.
 
 - **Pros:** Easy to use, multi-language support, loyalty programs, and reviews from a global user base. Payment is often
@@ -29,15 +43,23 @@ English-language customer support.
 **Key Tip:** Even on these sites, you must confirm that the hotel accepts foreign guests. Look for phrases like "This
 property is able to accept foreign guests" in the hotel description or policies section.
 
+---
+
 ## China-Focused Platforms
 
-Trip.com (formerly Ctrip) and Fliggy (owned by Alibaba) are the dominant players in China's travel market. Trip.com is
+[Trip.com](https://www.trip.com) (formerly Ctrip) and [Fliggy](https://www.fliggy.com) (owned by Alibaba) are the
+dominant players in China's travel market. Trip.com is
 particularly user-friendly for foreigners, with a dedicated English site and app.
 
 - **Pros:** The most extensive selection of hotels across all city tiers, often with better prices and promotions.
   Trip.com has excellent English support.
 - **Cons:** Fliggy is primarily in Chinese and deeply integrated with Alipay, making it less accessible if you don't use
   the app. You still need to verify if the hotel accepts foreigners.
+
+For budget travelers, our [China Transport & Accommodation Tips](/china-travel-tips) explain how to combine local
+transport with affordable hotel choices.
+
+---
 
 ## Direct Hotel Websites & WeChat Accounts
 
@@ -49,6 +71,11 @@ Official Accounts or Mini Programs for direct booking.
 - **Cons:** Can be cumbersome to book across different brands. WeChat Mini Programs may require a Chinese payment
   method.
 
+You can learn more about [using WeChat and Alipay in China](/internet-access-in-china) for seamless digital payments
+during your trip.
+
+---
+
 ## Confirming a Hotel Can Host Foreigners
 
 This is the single most important step. Not all hotels in China are licensed to host non-Chinese nationals. If you book
@@ -58,15 +85,24 @@ Here’s how to check:
 
 1. **Filter Your Search:** On Trip.com and Agoda, you can often filter results to show only properties that accept
    foreigners. This is the easiest method.
-2. **Read the Fine Print:** On any booking platform, carefully read the "Hotel Policies," "Important Information," or "
-   House Rules" sections. Look for explicit confirmation that they accept foreign passport holders.
+2. **Read the Fine Print:** On any booking platform, carefully read the "Hotel Policies," "Important Information," or
+   "House Rules" sections. Look for explicit confirmation that they accept foreign passport holders.
 3. **Contact the Hotel:** If you are unsure, contact the hotel directly. Use the chat function in the booking app or
    find their contact details. A simple message like, "Hello, can you please confirm that you accept guests with foreign
    passports?" is sufficient.
 
+If you're unsure about your visa type or eligibility,
+revisit [Your Essential Guide to Applying for a Chinese Visa](/apply-for-chinese-visa).
+
+---
+
 ## Booking Requirements and Payment Options
 
-Once you've found a suitable hotel, you'll need to provide some information and handle payment.
+Once you've found a suitable hotel, you'll need to provide some information and handle payment.  
+You can read about the [legal rules for foreigners staying in China](/legal-guide-to-traveling-in-china) to stay
+compliant during your stay.
+
+---
 
 ## Common Booking Requirements
 
@@ -75,6 +111,8 @@ Once you've found a suitable hotel, you'll need to provide some information and 
 - **Estimated Arrival Time:** This helps the hotel manage check-ins, especially if you plan to arrive late.
 - **Deposit:** Many hotels require a security deposit at check-in, usually paid in cash (CNY) or charged to a credit
   card. It's refunded upon checkout after they inspect the room.
+
+---
 
 ## Navigating Payments
 
@@ -87,31 +125,49 @@ Once you've found a suitable hotel, you'll need to provide some information and 
 - **Pay at the Property:** Many hotels offer this option. It’s a safe choice, but be prepared to pay with cash (Chinese
   Yuan) if they don't accept your international card.
 
+👉 For more details, check our [Expat SIM Card Guide for China](/expat-sim-card-guide-for-china) to set up WeChat Pay and
+Alipay using your mobile number.
+
+---
+
 ## Practical Tips for a Smooth Stay
 
 A little preparation goes a long way. These tips will help you avoid common issues.
+
+---
 
 ## Save the Hotel Address in Chinese
 
 GPS and ride-hailing apps work best with Chinese addresses. After booking, copy the hotel’s name and address in Chinese
 characters. Save it in your phone’s notes or as a screenshot. This is incredibly helpful for showing to taxi drivers or
-navigating.
+navigating. See also: [How to Get Around China Like a Local](/transportation-in-china).
+
+---
 
 ## Contacting the Property
 
 Use the in-app chat features on Booking.com, Agoda, or Trip.com for easy communication. For more direct contact, many
 hotels list their WeChat ID. Adding them on WeChat can be useful for quick questions.
 
+---
+
 ## Late Check-In Procedures
 
 If you know you'll be arriving late (after 6 PM), inform the hotel. You can add a note during booking or send them a
 message. This ensures they hold your room and don't mark you as a no-show.
+
+---
 
 ## Registering with the Public Security Bureau (PSB)
 
 By law, all foreigners must register their place of residence with the local Public Security Bureau (PSB) within 24
 hours of arrival. When you stay at a licensed hotel, they handle this for you during check-in. They will scan your
 passport and entry stamp, completing the registration on your behalf. This is a standard and routine process.
+
+To learn more about local law requirements,
+visit [A Legal Guide to Traveling in China](/legal-guide-to-traveling-in-china).
+
+---
 
 ## What to Expect at Check-In
 
@@ -120,6 +176,8 @@ passport and entry stamp, completing the registration on your behalf. This is a 
 - **Passport Scan:** They will take a photocopy or scan of your passport's photo page and your visa/entry stamp page for
   their records and PSB registration.
 - **Deposit:** Be ready to pay the security deposit.
+
+---
 
 ## Tips by City and Season
 
@@ -131,6 +189,10 @@ passport and entry stamp, completing the registration on your behalf. This is a 
   crucial to book on Trip.com and double-check eligibility. Have a backup plan and be prepared to pay with cash or a
   mobile payment app.
 
+For tips on avoiding scams in tourist areas, read [Most Common Scams in Beijing](/most-common-scams-in-beijing).
+
+---
+
 ### Peak Travel Seasons
 
 China has several major national holidays that cause travel demand—and hotel prices—to skyrocket.
@@ -140,7 +202,11 @@ China has several major national holidays that cause travel demand—and hotel p
 - **Canton Fair (Guangzhou):** Held twice a year in spring and autumn. Hotel prices in Guangzhou and nearby cities
   become extremely high.
 
+You can check [China’s official holiday calendar](https://www.timeanddate.com/holidays/china/) before planning your
+trip.  
 Book hotels several months in advance if your travel dates overlap with these periods.
+
+---
 
 ## Reading and Leaving Reviews
 
@@ -154,6 +220,8 @@ When you leave a review, consider including these helpful points for future trav
 - Was the address easy to find?
 - Did any staff members speak English?
 
+For more practical travel insights, check [A Traveler’s Guide to Internet Access in China](/internet-access-in-china).
+
 ---
 
 ## Quick Booking Checklist
@@ -166,22 +234,31 @@ When you leave a review, consider including these helpful points for future trav
 6. **Inform** the hotel if you plan to check in late.
 7. **Prepare** your passport and payment for the security deposit for check-in.
 
+---
+
 ## Frequently Asked Questions (FAQ)
 
-**What if a hotel turns me away even though I have a booking?**\
+**What if a hotel turns me away even though I have a booking?**  
 This almost always happens because the hotel is not licensed to host foreigners. Unfortunately, you will have to find
 another hotel. Use a booking app to find a nearby hotel that is confirmed to accept foreigners and book it on the spot.
 
-**My international credit card was declined. What should I do?**\
+**My international credit card was declined. What should I do?**  
 This can happen, especially at smaller hotels. The best solutions are to pay with cash (CNY) or use Alipay/WeChat Pay
 linked to your international card. Always carry some emergency cash.
 
-**What is a "fapiao" and do I need one?**\
+**What is a "fapiao" and do I need one?**  
 A *fapiao* is an official paper receipt used for business expense claims in China. As a tourist, you do not need one.
 
-**What's the difference between a "double room" and a "twin room"?**\
+**What's the difference between a "double room" and a "twin room"?**  
 A "double room" has one large bed (e.g., a queen or king). A "twin room" has two separate single beds. Be sure to select
 the correct room type for your needs.
 
 ---
 
+With a little preparation and the right tools, booking accommodation in China can be straightforward and even
+enjoyable.  
+For more useful China travel resources, explore:
+
+- [A Legal Guide to Traveling in China](/legal-guide-to-traveling-in-china)
+- [Your Essential Guide to Applying for a Chinese Visa](/apply-for-chinese-visa)
+- [Expat SIM Card Guide for China](/expat-sim-card-guide-for-china)

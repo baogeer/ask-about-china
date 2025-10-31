@@ -47,7 +47,8 @@ Blocked services include:
 - **Social Media:** Facebook, Instagram, X (formerly Twitter), WhatsApp, Telegram
 - **News & Media:** The New York Times, BBC, YouTube
 
-> 🔗 For a deeper look at online restrictions, visit [Wikipedia: Internet censorship in China](https://en.wikipedia.org/wiki/Internet_censorship_in_China)
+> 🔗 For a deeper look at online restrictions,
+> visit [Wikipedia: Internet censorship in China](https://en.wikipedia.org/wiki/Internet_censorship_in_China)
 
 It is important for visitors to respect local laws. Accessing blocked content is a legally sensitive area. This guide
 does not provide legal advice, and you are responsible for your own actions.
