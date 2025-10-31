@@ -4,7 +4,7 @@ export async function GET({ site }) {
     const blog = await getCollection('blog');
     const urls = blog.map((post) => {
         const url = new URL(`/${post.id.replace('.md', '')}/`, site);
-        const pubDate = post.data.pubDate;
+        const pubDate = new Date(post.data.pubDate).toISOString().replace(/\.\d{3}Z$/, 'Z');
         return `
   <url>
     <loc>${url.href}</loc>
