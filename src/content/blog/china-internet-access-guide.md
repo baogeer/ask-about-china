@@ -2,7 +2,7 @@
 title: "Guide to Internet Access in China"
 description: |
   China internet in 2025: compare roaming, local SIM/eSIM, and pocket Wi‑Fi; WeChat/Alipay setup and key local apps; maps and email access; business and family tips; privacy and compliance essentials.
-pubDate: '2025-11-03 15:130'
+pubDate: '2025-11-03 15:13'
 ---
 
 
