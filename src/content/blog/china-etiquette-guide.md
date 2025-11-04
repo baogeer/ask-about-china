@@ -5,7 +5,6 @@ description: |
 pubDate: '2025-11-03 15:19'
 ---
 
-# Cultural Etiquette Guide for China (2025)
 
 Understanding local customs is key to a rewarding and respectful journey. China, with its deep history and unique social
 norms, is no exception. While locals are generally forgiving of foreigners, knowing a few key points of etiquette will
